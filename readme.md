@@ -1,10 +1,10 @@
-﻿#README - PROJET LINUX 2019
+﻿# README - PROJET LINUX 2019
 
 ## Objectif 
 
 Ce readme a pour but de documenter le projet et d’expliquer le fonctionnement des différentes versions du script.
 
-#SCRIPT : Première version
+# SCRIPT : Première version
 
 ## Objectif
 
@@ -24,7 +24,7 @@ Je cherche à afficher le contenu du dossier **anaconda3**
 
 ![exemple 1](EXEMPLE1.png)
 
-#SCRIPT : Deuxième version
+# SCRIPT : Deuxième version
 
 ## Objectif
 
@@ -45,7 +45,7 @@ Je cherche à afficher les fichiers du dossier utilisateur commençant par la le
 
 ![exemple 2](EXEMPLE2.png)
 
-#SCRIPT : Troisième version
+# SCRIPT : Troisième version
 
 ## Objectif
 
